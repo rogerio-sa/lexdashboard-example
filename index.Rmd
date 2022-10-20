@@ -1,6 +1,7 @@
 ---
 title: "Painel"
 output: 
+  
   flexdashboard::flex_dashboard:
     #theme: cerulean
     orientation: columns
@@ -11,6 +12,7 @@ output:
     - {title: "UEPF/SAOR/SEFAZ", href: "http://www5.sefaz.mt.gov.br/-/14586954-boletim-fiscal", align: right}
     logo: ./figures/logo.png
     favicon: ./figures/favicon.PNG
+  html_document: default
 runtime: shiny
 
 ---
@@ -765,11 +767,7 @@ names(dados_LOA)<- c("descricao_pai","descricao_filho", "descricao_filha","descr
 ```
 
 
-<<<<<<< HEAD
 
-### Chart A
-=======
->>>>>>> a910a77... terceira alteração
 
 ```{r}
 library(collapsibleTree)
