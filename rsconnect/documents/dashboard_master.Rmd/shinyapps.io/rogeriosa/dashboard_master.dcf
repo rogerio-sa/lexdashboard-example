@@ -1,0 +1,13 @@
+name: dashboard_master
+title: dashboard_master
+username:
+account: rogeriosa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6438440
+bundleId: 6418440
+url: https://rogeriosa.shinyapps.io/dashboard_master/
+when: 1666171897.73251
+lastSyncTime: 1666171897.73251
+asMultiple: FALSE
+asStatic: FALSE
