@@ -1,4 +1,4 @@
-name: "index"
+name: "lexdashboard-example"
 output_dir: docs
 left:
     - text: "Visão Geral"
