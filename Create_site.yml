@@ -1,2 +1,5 @@
 name: "index"
 output_dir: main
+left:
+    - text: "Visão Geral"
+      href: index.html
