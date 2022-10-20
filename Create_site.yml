@@ -1,2 +1,2 @@
-name: "my-website"
-output_dir: docs
+name: "flexdashboard-example"
+output_dir: main
